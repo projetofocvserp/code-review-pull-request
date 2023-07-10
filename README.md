@@ -48,6 +48,8 @@ Para realizar o review de um pull request siga os passos abaixo:
     - **Comment**: Apenas adicionar um comentário
     - **Approve**: Aprova o pull request e disponibilza para realizar o merge
     - **Request changes**: Solicita alterações no código, e manteḿ o pull request aberto até que seja corrigido.
+        - Também é possível solicitar alterações em linhas específicas ao clicar no simbomo **+** ao lado da linha no código, e adicionar o comentário.     
+        
 6. Ao aprovar, clique na seta ao lado de **Merge pull request** para selecionar o método de merge:
     - **Create a merge commit**: fazer o merge levando todos os commits para a a branch base.
     - **Squashe and merge**: fazer o merge unificando todos os commits da branch de desenvolvimento em um unico, deixando o histórico mais limpo.
