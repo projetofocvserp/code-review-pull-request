@@ -31,3 +31,5 @@ Para criar um Pull Request, siga os passos abaixo (considerando que o dev já re
 9. Ainda no meu lateral, clique em **Labels** e insira a label do projeto e do tipo de desenvolvimento, se é feature ou fix.
 10. Clique no botão **Create pull request** e aguarde a finalização.
 11. Após o code review, caso o revisor aprovar, o dev irá fazer o merge clicando em **Merge pull request**
+
+teste
