@@ -1,8 +1,5 @@
 # code-review-pull-request
 
-<<<<<<< HEAD
-TESTE CONFLITO
-=======
 Este repositório será utilizado para testes de criação de Pull Request durante sua implementação.
 A equipe poderá utilizá-lo para testar Pull Requests e tirar dúvidas.
 
@@ -33,4 +30,3 @@ Para criar um Pull Request, siga os passos abaixo (considerando que o dev já re
 8. Ao lado direito, clique em **Labels** e insira a label do projeto e do tipo de desenvolvimento, se é feature ou fix.
 8. Clique no botão **Create pull request** e aguarde a finalização.
 9. Após o code review, caso o revisor aprovar, o dev irá fazer o merge clicando em **Merge pull request**
->>>>>>> main
