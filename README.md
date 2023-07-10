@@ -32,7 +32,8 @@ Para criar um Pull Request, siga os passos abaixo (considerando que o dev já re
 10. Clique no botão **Create pull request** e aguarde a finalização.
 
 
-## Review
+
+## Code Review
 
 Para realizar o review de um pull request siga os passos abaixo:
 
@@ -48,10 +49,11 @@ Para realizar o review de um pull request siga os passos abaixo:
     - **Approve**: Aprova o pull request e disponibilza para realizar o merge
     - **Request changes**: Solicita alterações no código, e manteḿ o pull request aberto até que seja corrigido.
         - Também é possível solicitar alterações em linhas específicas ao clicar no simbomo **+** ao lado da linha no código, e adicionar o comentário.     
-        
+
 6. Ao aprovar, clique na seta ao lado de **Merge pull request** para selecionar o método de merge:
     - **Create a merge commit**: fazer o merge levando todos os commits para a a branch base.
     - **Squashe and merge**: fazer o merge unificando todos os commits da branch de desenvolvimento em um unico, deixando o histórico mais limpo.
     - **Rebase and merge**: irá recriar a branch base baseada na branch de desenvolvimento.
         - **ATENÇÃO**: O título utilizado ao realizar o merge substitui o comentário do commit, deve ser utilizado de acordo com o *commit pattern*.
+
 7. Após selecionar o método, basta clicar no botão para realizar o merge.
