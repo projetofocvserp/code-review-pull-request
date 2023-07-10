@@ -16,7 +16,7 @@ Para criar um Pull Request, siga os passos abaixo (considerando que o dev já re
 1. Entre no repositório pelo navegador.
 2. Verifique se abaixo do nome do repositório, existe a seguinte mensagem:
 
-![Alt text](image.png)
+![Alt text](.readme_images/image.png)
 
 3. Clique no botão "Compare & pull request".
 4. Se não houver a mensagem, clique em **Pull requests** no cabeçalho da página e clique no botão **New pull request**
